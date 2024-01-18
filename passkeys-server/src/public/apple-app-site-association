@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "59H8A5CDR8.com.example.passkeyExample",
+            "paths": ["*"]
+        }]
+    },
+    "webcredentials": {
+        "apps": ["59H8A5CDR8.com.example.passkeyExample"]
+    },
+    "appclips": {}
+}

@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - passkeys_ios (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - ua_client_hints (1.2.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - passkeys_ios (from `.symlinks/plugins/passkeys_ios/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - ua_client_hints (from `.symlinks/plugins/ua_client_hints/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  passkeys_ios:
+    :path: ".symlinks/plugins/passkeys_ios/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  ua_client_hints:
+    :path: ".symlinks/plugins/ua_client_hints/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  passkeys_ios: fdae8c06e2178a9fcb9261a6cb21fb9a06a81d53
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  ua_client_hints: 5887fe166a59d944cbade5eb84d60c4e417b4f55
+
+PODFILE CHECKSUM: 6b9eb94e9f98a329f2ef624b852a6e42d090af2b
+
+COCOAPODS: 1.12.1
